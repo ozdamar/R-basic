@@ -14,12 +14,14 @@ R-BRAIN : https://r-brain.io/en/
 
 ECLIPSE
 
-RKWARD
+RKWARD : https://rkward.kde.org/Main_Page
 
-R OPEN : 
+R OPEN : https://mran.microsoft.com/open
 
 R TOOLS FOR VISUAL STUDIO
 
-TINN-R
+TINN-R : https://sourceforge.net/projects/tinn-r/files/Tinn-R%20setup/1.19.4.4/Tinn-R_1.19.4.4_setup.exe/download
 
-JGR
+JGR :https://www.rforge.net/JGR/
+
+R ANALYTIC  FLOW : https://r.analyticflow.com/en/

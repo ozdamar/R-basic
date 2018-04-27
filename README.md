@@ -1,6 +1,6 @@
 
 
-# IDE / GUIs
+### IDE / GUIs
 
 RSTUDIO : https://www.rstudio.com
 
@@ -15,6 +15,8 @@ R-BRAIN : https://r-brain.io/en/
 ECLIPSE
 
 RKWARD
+
+R OPEN : 
 
 R TOOLS FOR VISUAL STUDIO
 

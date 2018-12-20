@@ -30,30 +30,30 @@ R ANALYTIC  FLOW : https://r.analyticflow.com/en/
 # ADVANCED DATA MANIPULATION WITH R
 
 1. Introduction to R
-	▪	Paket yapısı
-	▪	Paketlerin nasıl araştırılacağı
-	▪	Paket ve çalışma alanı yönetimi için gerekli fonksiyonlar
-	▪	R IDE leri
-	▪	R STUDIO arayüzü
-	▪	Nesne yönetimi için gerekli fonksiyonlar, 
-	▪	Nesne İsimlendirme
-	▪	Operatörler
-	▪	R'da özel sayılar
-	▪	Uygulama
+Paket yapısı
+Paketlerin nasıl araştırılacağı
+Paket ve çalışma alanı yönetimi için gerekli fonksiyonlar
+R IDE leri
+R STUDIO arayüzü
+Nesne yönetimi için gerekli fonksiyonlar, 
+Nesne İsimlendirme
+Operatörler
+R'da özel sayılar
+Uygulama
 
 2. Data Structures
-	▪	R' da nesne tipleri
-	▪	Vektör
-	▪	Matris
-	▪	Array
-	▪	Data.Frame
-	▪	List
-	▪	Factor
-	▪	Subsetting
-	▪	Uygulama
+R' da nesne tipleri
+Vektör
+Matris
+Array
+Data.Frame
+List
+Factor
+Subsetting
+Uygulama
 
 3. Data Management
-	3.1 Basic Data Management
+ 3.1 Basic Data Management
  	▪	Değişken oluşturma
       Değişken recoding
 	▪	Missing values - (missing value belirleme, R'da na action ları, modellerde na action farklılıkları - regresyon icin - , tablolarda NA kullanımı, paketler ile NA örüntüsü ve görselleştirilmesi)

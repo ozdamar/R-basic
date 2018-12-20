@@ -39,7 +39,6 @@ R ANALYTIC  FLOW : https://r.analyticflow.com/en/
 - Nesne İsimlendirme
 - Operatörler
 - R'da özel sayılar
-- Uygulama
 
 ## 2. Data Structures
 - R' da nesne tipleri
@@ -50,7 +49,6 @@ R ANALYTIC  FLOW : https://r.analyticflow.com/en/
 - List
 - Factor
 - Subsetting
-- Uygulama
 
 ## 3. Data Management
  
@@ -64,7 +62,6 @@ R ANALYTIC  FLOW : https://r.analyticflow.com/en/
 - Merging datasets
 - Subsetting datasets
 - Sql statements
-- Uygulama
 
 #### 3.2. User Defined Fuctions
 - for
@@ -72,13 +69,11 @@ R ANALYTIC  FLOW : https://r.analyticflow.com/en/
 - if else
 - switch
 - user defined functions
-- Uygulama
 
 #### 3.3. Mapping Function
 - apply
 - lapply
 - sapply 
-- Uygulama
 
 ## 4. Data import/Export
 
@@ -110,4 +105,17 @@ R ANALYTIC  FLOW : https://r.analyticflow.com/en/
 
 ## 9. date and time manipulation
 
-## ggplot2
+## visualising with ggplot2
+
+## Data cleaning
+  - Missing data imputation
+  - smooth noisy data,
+  - identify or remove outliers, and resolve inconsistencies  
+## Data integration
+  Integration of multiple databases, data cubes, or files 
+## Data transformation
+  Normalization and aggregation  
+## Data reduction
+  Obtains reduced representation in volume but produces the same or similar analytical results
+## Data discretization
+  Part of data reduction but with particular importance, especially for numerical data

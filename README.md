@@ -41,43 +41,73 @@ R ANALYTIC  FLOW : https://r.analyticflow.com/en/
 - R'da özel sayılar
 - Uygulama
 
-2. Data Structures
-R' da nesne tipleri
-Vektör
-Matris
-Array
-Data.Frame
-List
-Factor
-Subsetting
-Uygulama
+## 2. Data Structures
+- R' da nesne tipleri
+- Vektör
+- Matris
+- Array
+- Data.Frame
+- List
+- Factor
+- Subsetting
+- Uygulama
 
-3. Data Management
- 3.1 Basic Data Management
- 	▪	Değişken oluşturma
-      Değişken recoding
-	▪	Missing values - (missing value belirleme, R'da na action ları, modellerde na action farklılıkları - regresyon icin - , tablolarda NA kullanımı, paketler ile NA örüntüsü ve görselleştirilmesi)
-	▪	Sorting Data
-	▪	R'da date values
-	▪	Type conversions
-	▪	Merging datasets
-	▪	Subsetting datasets
-	▪	Sql statements
-	▪	Uygulama
-	▪	
-3.2. Fuction
-	▪	for
-	▪	while
-	▪	if else
-	▪	switch
-	▪	user defined functions
-	▪	Uygulama
-	▪	
-	3.	Mapping Function
-	▪	apply
-	▪	lapply
-	▪	sapply 
-	▪	Uygulama
-	▪	4. Data import/Export
-	▪	
-	▪	 
+## 3. Data Management
+ 
+#### 3.1 Basic Data Management
+ - Değişken oluşturma
+ - Değişken recoding
+ - Missing values - (missing value belirleme, R'da na action ları, modellerde na action farklılıkları - regresyon icin - , tablolarda NA kullanımı, paketler ile NA örüntüsü ve görselleştirilmesi)
+- Sorting Data
+- R'da date values
+- Type conversions
+- Merging datasets
+- Subsetting datasets
+- Sql statements
+- Uygulama
+
+#### 3.2. User Defined Fuctions
+- for
+- while
+- if else
+- switch
+- user defined functions
+- Uygulama
+
+#### 3.3. Mapping Function
+- apply
+- lapply
+- sapply 
+- Uygulama
+
+## 4. Data import/Export
+
+## 5. Basic statistics and graphics
+
+## 6 data manipulation
+
+#### 6.1 tidyverse
+#### 6.2 tibble
+#### 6.3 tidy data
+#### 6.4 pipe operator
+#### 6.5 dplyr
+- select
+- filter
+- arrange
+- mutate, transmutate
+- summarise
+- rename
+- sample_n, sample_frac
+#### 6.6. advanced dplyr
+- joining tables
+- window functions
+- databases
+- programming
+
+## 7. data.table
+
+## 8. string and factor manipulation
+
+## 9. date and time manipulation
+
+## ggplot2

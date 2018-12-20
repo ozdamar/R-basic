@@ -30,23 +30,16 @@ R ANALYTIC  FLOW : https://r.analyticflow.com/en/
 # ADVANCED DATA MANIPULATION WITH R
 
 ## 1. Introduction to R
-Paket yapısı
-
-Paketlerin nasıl araştırılacağı
-
-Paket ve çalışma alanı yönetimi için gerekli fonksiyonlar
-
-R IDE leri
-
-R STUDIO arayüzü
-
-Nesne yönetimi için gerekli fonksiyonlar, 
-
-Nesne İsimlendirme
-
-Operatörler
-R'da özel sayılar
-Uygulama
+- Paket yapısı
+- Paketlerin nasıl araştırılacağı
+- Paket ve çalışma alanı yönetimi için gerekli fonksiyonlar
+- R IDE leri
+- R STUDIO arayüzü
+- Nesne yönetimi için gerekli fonksiyonlar, 
+- Nesne İsimlendirme
+- Operatörler
+- R'da özel sayılar
+- Uygulama
 
 2. Data Structures
 R' da nesne tipleri

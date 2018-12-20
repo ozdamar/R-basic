@@ -30,8 +30,9 @@ R ANALYTIC  FLOW : https://r.analyticflow.com/en/
 # ADVANCED DATA MANIPULATION WITH R
 
 ## 1. Introduction to R
-### Paket yapısı
-### Paketlerin nasıl araştırılacağı
+Paket yapısı
+
+Paketlerin nasıl araştırılacağı
 
 Paket ve çalışma alanı yönetimi için gerekli fonksiyonlar
 
